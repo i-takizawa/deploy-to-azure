@@ -8,7 +8,6 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   DOCKER_IMAGE_NAME: i-takizawa-azure-ttt
   AZURE_WEBAPP_NAME: i-takizawa-ttt-app
-  ###############################################
 
 jobs:
   build:
